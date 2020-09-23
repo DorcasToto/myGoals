@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "GoalTracker"
+    }
+  },
+  "defaultProject": "GoalTracker",
+  "cli": {
+    "analytics": "d55e67a7-5d51-4abf-b65f-b6bd400d65ed"
+  }
 }
